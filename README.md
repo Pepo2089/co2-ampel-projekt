@@ -19,6 +19,7 @@ Dieses Projekt überwacht die CO₂-Konzentration in einem Raum. Eine LED-Ampel 
 - bilder/
 - code/# co2-ampel-projekt
 
+
 ## 📊 Visualisierungsmöglichkeiten der CO₂-Konzentration
 
 Das System kann die CO₂-Werte auf verschiedene Arten anzeigen. Ziel ist eine einfache und schnelle Erkennung der Luftqualität im Raum.
